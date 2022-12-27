@@ -1,6 +1,4 @@
-# Arithmetic operations
-
-## Sum operator (+)
+# Sum operator (+)
 
 Given a number a , Sum operator adds a quantity given by number b. The result c used by the sum of the number a and the number b is called sum.
 
