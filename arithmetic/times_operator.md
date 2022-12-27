@@ -22,9 +22,9 @@ a = 2 b = 3
 
 ` c = a * b = a + a + a = 2 + 2 + 2 = 6`
 
-a = 3 b = 3
+a = 2 b = 8
 
-` c = a * b = a + a + a = 3 + 3 + 3 = 6 + 3 = 9`
+` c = a * b = a + a + a + a + a + a + a + a   = 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2 = 4 + 2 + 2 + 2 + 2 + 2 = 8 + 2 + 2 + 2 + 2 = 10 + 2 + 2 + 2 = 12 + 2 + 2 = 14 +2 = 16   `
 
 since a=b then we can go for another route: 
 
